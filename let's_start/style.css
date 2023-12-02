@@ -45,7 +45,7 @@ header {
     border-radius: 16px;
     background: #F9F9F9;
     padding: 16px 20px;
-    border-color: #F9F9F9;
+    border:1px solid #F9F9F9;
     opacity: 0.9;
     transition: opacity 0.3s;
 }
