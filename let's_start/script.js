@@ -27,6 +27,7 @@ let DoneNumber=document.querySelector(".next-number");
 main_input.onclick=function()
 {
     document.querySelector(".Sample").innerHTML="Sample Space";
+    document.querySelector(".Sample").style.color="black";
     document.querySelector(".Sample").style.backgroundColor="#f9f9f9";
     document.querySelector(".Sample").style.transform="translateX(10px) translateY(-15px)";
     document.querySelector(".Sample").style.padding="0 10px";
